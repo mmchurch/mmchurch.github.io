@@ -47,7 +47,7 @@
   footer {
     clear: left;
     width: 100%;
-    background: #ccc;
+    background-image: url("../stockholmmap.png");
     padding: 4px 0;
   }
 
