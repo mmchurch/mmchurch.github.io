@@ -15,7 +15,8 @@
   header {
     background: #FFFACD;
     height: 80px;
-    /* background-image: url("put-link-to-image-here"); the quotation marks are required */
+    background-image: url("../stockholmmap.png");
+    opacity: 0.5;
   }
 
   header h1 {
@@ -35,8 +36,8 @@
   nav {
     padding-bottom: 10010px;
     margin-bottom: -10000px;
-    float: left;
-    width: 230px;
+    float: right;;
+    width: 170px;
     margin-left: -230px;
     background: #4682B4;
   }
